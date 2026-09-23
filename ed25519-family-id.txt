@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .well-known/tor-relay/ed25519-family-id.txt
+---
+
+wyJ28BnNojCfAVwqPb7GcDfJva+4XIKqBeOjUTimsVU
